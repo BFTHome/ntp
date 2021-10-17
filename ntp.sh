@@ -1,5 +1,6 @@
 #!/bin/bash
-#
+# curl git.io/ntp.sh|sh
+# curl git.io/NTP.sh|sh
 red='\e[91m'
 green='\e[92m'
 yellow='\e[93m'
